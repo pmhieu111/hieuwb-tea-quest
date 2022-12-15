@@ -4,7 +4,8 @@ body {
   font-family: Inter, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  background-color: #7700ee;
+  background-size: cover;
+  background-image: url(./nen.jpg);
   color: #fff;
   overflow-x: hidden;
 }
@@ -121,8 +122,8 @@ h1 {
 
 button {
   cursor: pointer;
-  background-color: #000;
-  color: #fff;
+  background-color: rgb(143, 222, 17);
+  color: rgb(224, 10, 10);
   border: none;
   font-weight: bold;
   font-family: inherit;

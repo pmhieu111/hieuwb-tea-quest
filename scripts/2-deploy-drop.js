@@ -13,7 +13,7 @@ import { readFileSync } from "fs";
     // We need to pass in the address of the person who will be receiving the proceeds from sales of nfts in the contract.
     // We're planning on not charging people for the drop, so we'll pass in the 0x0 address
     // you can set this to your own wallet address if you want to charge for the drop.
-    primary_sale_recipient: 0x0000000000000000000000000000000000000000,
+    primary_sale_recipient: AddressZero,
   });
 
   // this initialization returns the address of our contract
