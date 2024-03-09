@@ -1,7 +1,7 @@
 {
   "name": "mydao",
   "version": "3.0.0",
-  "private": true,
+  "private": false,
   "dependencies": {
     "@thirdweb-dev/react": "^3.5.1",
     "@thirdweb-dev/sdk": "^3.5.1",
@@ -32,5 +32,10 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "description": "https://wibudao.vercel.app/\r ### **Welcome 👋**\r To get started with this project, clone this repo and follow these commands:",
+  "main": "index.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
 }
