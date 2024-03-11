@@ -1,5 +1,5 @@
 {
-  "name": "wibudao",
+  "name": "hieuwb-tea-quest",
   "version": "3.0.0",
   "private": false,
   "dependencies": {
@@ -9,6 +9,10 @@
     "react": "^18.0.2",
     "react-dom": "^18.0.2",
     "react-scripts": "5.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pmhieu111/hieuwb-tea-quest"
   },
   "scripts": {
     "start": "react-scripts start",
@@ -33,9 +37,9 @@
       "last 1 safari version"
     ]
   },
-  "description": "https://wibudao.vercel.app/\r ### **Welcome 👋**\r To get started with this project, clone this repo and follow these commands:",
+  "description": "https://wibudao.vercel.app/\r ### **Welcome 👋**\r To get started with this project, clone this repo and follow these:",
   "main": "index.js",
-  "keywords": [],
-  "author": "",
+  "keywords": ["npm","dao", "nft"],
+  "author": "hieuwb",
   "license": "ISC"
 }
