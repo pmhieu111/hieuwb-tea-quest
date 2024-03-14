@@ -40,6 +40,7 @@
     ]
   },
   "description": "https://wibudao.vercel.app/\r ### **Welcome 👋**\r To get started with this project, clone this repo and follow these:",
+  "description": "https://wibudao.vercel.app/\r ### **Welcome 👋**\r To get started with this project, clone this repo and follow these:",
   "main": "index.js",
   "keywords": [
     "npm",
